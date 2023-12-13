@@ -1,0 +1,12 @@
+the image id is 153217 with index 54
+the image id is 176778 with index 56
+the image id is 409867 with index 104
+
+#qualitative
+the image id is 409867 with index 104
+
+
+#no cats 
+the image id is 167122 with index 87
+
+the image id is 29640 with index 318
